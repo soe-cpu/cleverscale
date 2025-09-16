@@ -336,7 +336,7 @@ With a vast network of international colleges and universities, GOEC provides pe
 The application features real-time data updates, intuitive user interface, and secure transaction handling. By leveraging Remix's server-side rendering and routing capabilities, Capitals Exchange delivers a smooth and responsive user experience while maintaining optimal performance and SEO friendliness. 
 
 This project demonstrates expertise in modern web development, full-stack JavaScript, and building scalable, production-grade applications.`,
-    languages: ["Remix"],
+    languages: ["HTML", "CSS", "Tailwind", "React", "ShadCN", "Remix"],
     link: "https://capitals-exchange.vercel.app/",
   },
   {
