@@ -325,8 +325,22 @@ With a vast network of international colleges and universities, GOEC provides pe
     languages: ["Next.js", "TailwindCSS"],
     link: "https://goeceducationmm.com/",
   },
+   {
+    id: 5, // ensure this ID is unique
+    title: "Capitals Exchange",
+    img: "/ce.png", // add the image in your public folder
+    type: "Production",
+    desc: "Capitals Exchange is a modern web application built with Remix, providing users with real-time currency exchange services and a seamless trading experience.",
+    longDesc: `Capitals Exchange is a production-ready web platform developed using Remix, designed to offer fast, reliable, and interactive currency exchange services. 
+
+The application features real-time data updates, intuitive user interface, and secure transaction handling. By leveraging Remix's server-side rendering and routing capabilities, Capitals Exchange delivers a smooth and responsive user experience while maintaining optimal performance and SEO friendliness. 
+
+This project demonstrates expertise in modern web development, full-stack JavaScript, and building scalable, production-grade applications.`,
+    languages: ["Remix"],
+    link: "https://capitals-exchange.vercel.app/",
+  },
   {
-    id: 5, // make sure this ID is unique
+    id: 6, // make sure this ID is unique
     title: "SORA Mart",
     img: "/sora.jpg", // add the image in your public folder
     type: "Development",
