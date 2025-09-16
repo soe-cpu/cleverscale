@@ -312,4 +312,32 @@ This project demonstrates strong expertise in mobile-first development, backend 
     languages: ["Flutter", "Node.js"],
     link: "https://play.google.com/store/apps/details?id=org.hihealth.kunyi",
   },
+  {
+    id: 4, // make sure this is unique in your list
+    title: "GOEC",
+    img: "/goec.png", // add the image file in your public folder
+    type: "Production",
+    desc: "GOEC is an Overseas Education Consultancy dedicated to help students pursue their academic aspirations by connecting them with prestigious colleges and universities around the world.",
+    longDesc: `GOEC is a comprehensive platform built with Next.js and styled using Tailwind CSS. 
+The consultancy focuses on guiding students through the application process, ensuring a smooth transition to their desired institutions. 
+
+With a vast network of international colleges and universities, GOEC provides personalized support and expert advice to help students achieve their academic goals. The platform includes features for browsing programs, tracking applications, and staying informed about deadlines and requirements, making the overseas education journey seamless and accessible.`,
+    languages: ["Next.js", "TailwindCSS"],
+    link: "https://goeceducationmm.com/",
+  },
+  {
+    id: 5, // make sure this ID is unique
+    title: "SORA Mart",
+    img: "/sora.jpg", // add the image in your public folder
+    type: "Development",
+    desc: "SORA Mart is a modern eCommerce platform built with Laravel for the backend and Flutter for cross-platform mobile applications, providing a seamless shopping experience with multi-category products, brand filtering, and order management features.",
+    longDesc: `SORA Mart is a feature-rich eCommerce application designed to streamline online shopping for users. 
+The backend is built with Laravel, ensuring robust performance, secure payment handling, and scalable API management. 
+
+The mobile application is developed with Flutter, delivering a smooth, responsive, and user-friendly experience across both iOS and Android devices. Key functionalities include product creation, multi-category and brand filtering, wishlist and order management, discount coupon system, and customer reviews. 
+
+This project demonstrates expertise in full-stack development, combining Laravel's power with Flutter's cross-platform capabilities to provide a complete eCommerce solution.`,
+    languages: ["Laravel", "Flutter"],
+    link: null,
+  },
 ];
