@@ -338,6 +338,6 @@ The mobile application is developed with Flutter, delivering a smooth, responsiv
 
 This project demonstrates expertise in full-stack development, combining Laravel's power with Flutter's cross-platform capabilities to provide a complete eCommerce solution.`,
     languages: ["Laravel", "Flutter"],
-    link: null,
+    link: "",
   },
 ];
