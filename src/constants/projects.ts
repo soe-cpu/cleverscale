@@ -337,7 +337,7 @@ The application features real-time data updates, intuitive user interface, and s
 
 This project demonstrates expertise in modern web development, full-stack JavaScript, and building scalable, production-grade applications.`,
     languages: ["HTML", "CSS", "Tailwind", "React", "ShadCN", "Remix"],
-    link: "https://capitals-exchange.vercel.app/",
+    link: "",
   },
   {
     id: 6, // make sure this ID is unique

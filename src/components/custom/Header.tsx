@@ -16,8 +16,8 @@ export default function Header() {
         <div className="flex items-center gap-8">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2 text-xl font-bold">
-            <img src="/logo.png" alt="Logo" className="h-12 w-auto" />
-            <p>Clever Scale</p>
+            <img src="/logo.jpg" alt="Logo" className="h-12 w-auto" />
+            <p>Digital Smart</p>
           </Link>
 
           {/* Desktop Links */}
