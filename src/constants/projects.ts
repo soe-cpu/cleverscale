@@ -297,4 +297,19 @@ Secure password handling, HTTPS everywhere, and validation for inputs.
     link: "https://mm.loiheng.com/",
     languages: ["HTML", "CSS", "PHP", "Laravel", "Next JS"],
   },
+  {
+    id: 3,
+    title: "Ku Nyi",
+    img: "/kn.png",
+    type: "Production",
+    desc: "Ku Nyi is a modern health and wellness mobile app built with Flutter and powered by a Node.js backend, offering a seamless experience for users to track and improve their lifestyle.",
+    longDesc: `Ku Nyi is a fully functional mobile application available on the Google Play Store. 
+It is designed with Flutter for cross-platform performance (iOS & Android) and supported by a scalable Node.js backend. 
+
+The app provides users with an intuitive interface to manage their daily activities, track wellness goals, and stay connected with essential health services. With smooth navigation, responsive UI, and secure backend integration, Ku Nyi ensures a reliable and engaging user experience. 
+
+This project demonstrates strong expertise in mobile-first development, backend API design, and real-world deployment for production use.`,
+    languages: ["Flutter", "Node.js"],
+    link: "https://play.google.com/store/apps/details?id=org.hihealth.kunyi",
+  },
 ];

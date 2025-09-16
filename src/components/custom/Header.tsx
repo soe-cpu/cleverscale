@@ -2,7 +2,6 @@ import { useState } from "react";
 import { Menu, X } from "lucide-react";
 import { Link, useLocation } from "react-router";
 import { AnimatePresence, motion } from "motion/react";
-import { Button } from "@/components/ui/button";
 
 export default function Header() {
   const [open, setOpen] = useState(false);
@@ -46,9 +45,9 @@ export default function Header() {
 
         {/* Right: Contact button */}
         <div className="flex items-center gap-2">
-          <Link to="/contact" className="hidden md:block">
+          {/* <Link to="/contact" className="hidden md:block">
             <Button variant="default">Contact </Button>
-          </Link>
+          </Link> */}
 
           {/* Mobile Menu Button */}
           <button
@@ -91,9 +90,9 @@ export default function Header() {
                 );
               })}
               {/* Mobile Contact Button */}
-              <Link to="/contact" onClick={() => setOpen(false)}>
+              {/* <Link to="/contact" onClick={() => setOpen(false)}>
                 <Button variant="default">Contact</Button>
-              </Link>
+              </Link> */}
             </div>
           </motion.nav>
         )}
